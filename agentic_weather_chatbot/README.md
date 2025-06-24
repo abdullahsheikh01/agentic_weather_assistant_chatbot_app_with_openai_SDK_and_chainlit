@@ -73,3 +73,5 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## 👤 Author
 **Abdullah Shaikh**  
 [GitHub](https://github.com/abdullahsheikh01)
+[X](https://x.com/abdullahsh6601)
+[LinkedIn](https://www.linkedin.com/in/abdullah-shaikh-29699b302/)
